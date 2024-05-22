@@ -1,4 +1,4 @@
-# Luke's Auto-Rice Bootstrapping Scripts (LARBS)
+# Luke's Auto-Rice Bootstrapping Scripts (LARBS) NOT YET UPDATED AS OF WEDNESDAY, MAY 22ND. updates will come soon, check commit dates!
 
 ## Installation:
 
